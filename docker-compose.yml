@@ -1,0 +1,6 @@
+version: '3'
+services:
+    chime:
+        images: franklindtx/chime
+        ports:
+            - "5000:5000"
