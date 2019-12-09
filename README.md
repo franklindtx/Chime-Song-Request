@@ -2,8 +2,7 @@
 
 **App Name:** Chime Song Request
 
-**App Tagline:** short one-liner description of your app
-
+**App Tagline:** an app for requesting chime songs
 
 **Link(s) to any other public GitHub repo(s) of your app.** If you have one repo for iOS and one for Backend, please link to your backend repo in your iOS README, and your iOS repo in your backend README:
 
