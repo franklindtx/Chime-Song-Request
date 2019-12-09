@@ -10,6 +10,8 @@
 
 **Backend:** https://github.com/franklindtx/Chime-Song-Request-Backend
 
+**Design:** https://www.figma.com/file/rBVuNon8vdcHqt4ObMJBPc/chime-song-requester?node-id=1%3A3
+
 
 **Some screenshots of your app (highlight important features):**
 
@@ -47,4 +49,8 @@ Students are limited to requesting only one song per a day that they must reques
 **Backend:**
 
 The backend satisfies the API and database modeling requirement by creating a user-song (one to many) relationship, and multiple routes to create users, get users, create songs, get songs, vote for a song, delete a song, etc. It satisfies the deployment requirement by creating an external IP 35.190.159.80. 
+
+**Anything else you want the graders to know?**
+The design is a bit different from the developed app because the design is a little complicated for a student in an introductory iOS class to code, however the design is how the app would ideally look under fewer time and skill level constraints. The link to the design is here: https://www.figma.com/file/rBVuNon8vdcHqt4ObMJBPc/chime-song-requester?node-id=1%3A3, with an available prototype. 
+
 
